@@ -1,3 +1,5 @@
-remote_theme: "dracula/gh-pages"
+remote_theme: dracula/gh-pages
+plugins:
+- jekyll-remote-theme 
 title: Ant's homepage
 description: Bookmark this to keep an eye on my project updates!
